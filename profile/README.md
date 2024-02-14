@@ -10,6 +10,9 @@ Notable projects:
 We work in this organization *for free* ("free" as in both "free beer" & "freedom of thoughts") - technically saying, we embrace **FOSS** - Free and Open Source Software.
 
 [![Heart](https://img.shields.io/badge/from-team_nameless-pink?style=for-the-badge&logo=github)](https://github.com/team-nameless) 
+
+- Discord (we speak in Vietnamese):
+
 [![Discord](https://img.shields.io/badge/See_us-on_Discord-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/zGhb3mD)
 
 ## :pensive: Literally us
