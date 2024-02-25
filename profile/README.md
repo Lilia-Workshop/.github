@@ -1,19 +1,15 @@
-## Hi there :wave:
+## :wave: Hi
 
-Hello stranger! Welcome to Team Nameless.
+Hello there! Welcome to **team nameless*** GitHub organization. 
 
-We are a team with a f--king ambition to create big things. Our range of stuffs are, including, but not limited to: Discord bot, games, GUI app, and more to be added! 
+We are a team with f--king big ambitions to create big things. Our range of stuffs are, including, but not limited to: Discord bot, games, GUI app, and moreover, we embrace **FOSS** - Free and Open Source Software.
 
 Notable projects:
-- [*nameless** Discord BOT](https://github.com/nameless-on-discord/nameless/) - a combination of [*spaghetti-written Lilia*](https://github.com/Swyreee/Lilia) and [*original nameless**](https://github.com/FoxeiZ/nameless) - [the migration PR](https://github.com/nameless-on-discord/nameless/pull/2).
+- [*nameless** Discord BOT](https://github.com/team-nameless/nameless-discord-bot) - the bot written in Python 🐍 with batteries ⚡ in mind, currently powering our official Discord 💪.
+- [*nameless** Discord theme](https://github.com/team-nameless/nameless-discord-theme) - a red-tinted theme 🖼️ for BetterDiscord/Vencord/Vesktop users, plus the branding ✨.
+- [And more...](https://github.com/orgs/team-nameless/repositories) - *perhaps checking the pins 📌 should be enough?*
 
-We work in this organization *for free* ("free" as in both "free beer" & "freedom of thoughts") - technically saying, we embrace **FOSS** - Free and Open Source Software.
-
-[![Heart](https://img.shields.io/badge/from-team_nameless-pink?style=for-the-badge&logo=github)](https://github.com/team-nameless) 
-
-- Discord (we speak in Vietnamese):
-
-[![Discord](https://img.shields.io/badge/See_us-on_Discord-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/zGhb3mD)
+[![Discord](https://img.shields.io/badge/See_us_(VN)-on_Discord-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/zGhb3mD)
 
 ## :pensive: Literally us
 
