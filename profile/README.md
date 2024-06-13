@@ -1,5 +1,5 @@
 ## Hello there! 👋
-Welcome to [**team-nameless***](https://github.com/team-nameless).  We are a team with big ambitions to create big things 💪.
+Welcome to [**team nameless***](https://github.com/team-nameless).  We are a team with big ambitions to create big things 💪.
 
 This place originally created to host the repository for [our Discord BOT](https://github.com/team-nameless/nameless-discord-bot), but now a place to show the ones that we worked together 🌟. Solidarity working is always better than doing stuffs alone.
 
